@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node scripts/dev.js",
-    "prod": "node scripts/prod.js"
+    "build": "node scripts/prod.js"
   },
   "repository": {
     "type": "git",
