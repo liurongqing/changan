@@ -1,0 +1,24 @@
+{
+  "name": "changan",
+  "version": "1.0.0",
+  "description": "长安街",
+  "main": "index.js",
+  "scripts": {
+    "start": "node scripts/dev.js",
+    "prod": "node scripts/prod.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liurongqing/changan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liurongqing/changan/issues"
+  },
+  "homepage": "https://github.com/liurongqing/changan#readme",
+  "devDependencies": {
+    "esbuild": "^0.12.9"
+  }
+}
