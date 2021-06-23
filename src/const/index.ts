@@ -1,1 +1,1 @@
-export { TIC_TAC_TOE_SCENEKEYS } from './SceneKey'
+export { TIC_TAC_TOE_SCENEKEYS, MAIN_SCENEKEYS } from './SceneKey'
